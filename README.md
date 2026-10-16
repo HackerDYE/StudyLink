@@ -3,7 +3,7 @@
 StudyLink, a free online study group finder.
 
 ## Mission and Identity
-Our mission is to make it easier for UBC students to find compatible peers and learn together. We value clear communication, fair participation, efficient coordination and user choice. StudyLink is both our team and product name. Our initial logo is the original text wordmark StudyLink, with Study in dark blue and Link in teal; it uses no third-party artwork.
+Our mission is to make it easier for UBC students to find compatible peers and learn together. We value clear communication, fair participation, efficient coordination and user choice. StudyLink is both our team and product name. Our logo is Chinese mascot sutdying in pair; no third-party artwork used.
 
 ## Roles and Collaboration
 
@@ -15,4 +15,9 @@ Our mission is to make it easier for UBC students to find compatible peers and l
 | Daniel Feng | Developer | Implement components and contribute tests and reviews |
 | Henry Fu | Developer | Implement components and contribute tests and reviews |
 
-## Design Our Solution
+# Design Our Solution
+
+## Problem
+Students looking for peers to discuss coursework or prepare for exams need both shared courses and compatible schedules. Our team identifies Reddit, RedNote and Piazza posts as existing ways to find peers, but students still need separate conversations to compare availability. This can delay arrangements and make suitable partners difficult to find. These observations come from our team discussion; supporting user research remains to be added.
+
+## Core Features
