@@ -13,7 +13,7 @@ Our mission is to make it easier for UBC students to find compatible peers and l
 |---|---|---|
 | Henry Zhang | Project Manager | Coordinate tasks, meetings, reviews, and submissions |
 | Zhiyuan Huang | Designer | Lead user research, interaction design, mockups, and specifications |
-| Derek Deng | Primary Developer | Coordinate technical feasibility and implementation |
+| Derek Deng | Developer | Implement components and contribute tests and reviews|
 | Daniel Feng | Developer | Implement components and contribute tests and reviews |
 | Henry Fu | Developer | Implement components and contribute tests and reviews |
 
