@@ -2,10 +2,10 @@
 <img align = "center" width="300" height="300" alt="UBC Study Group Finder" src="https://github.com/user-attachments/assets/6c8a4643-31cb-4638-b471-664cae521491" />
 StudyLink, a free online study group finder.
 
-# About Our team 
+# About Our Team 
 
 ## Mission and Identity
-Our mission is to make it easier for UBC students to find compatible peers and learn together. We value clear communication, fair participation, efficient coordination and user choice. StudyLink is both our team and product name. Our logo is Chinese mascot sutdying in pair; no third-party artwork used.
+Our mission is to make it easier for UBC students to find compatible peers and learn together. We value clear communication, fair participation, efficient coordination and user choice. StudyLink is both our team and product name. Our logo is Chinese mascot studying in pair; no third-party artwork used.
 
 ## Roles and Collaboration
 
@@ -23,6 +23,7 @@ Our mission is to make it easier for UBC students to find compatible peers and l
 UBC students looking for peers to discuss coursework or prepare for exams often face two challenges: finding students in the same courses and coordinating compatible schedules. Existing platforms such as Reddit, RedNote, and Piazza may help students connect, but availability must usually be discussed separately through repeated messages. This can delay arrangements and make suitable study groups difficult to form.
 
 These initial observations informed our focus on course-based discovery and schedule matching. We will validate them through feedback from UBC students.
+
 
 ## Design Solution
 
@@ -77,5 +78,15 @@ Send a study group join request with a proposed meeting time and an optional mes
 <img src="https://github.com/user-attachments/assets/2f76054f-ea2e-46c9-b181-41c11c7d6588" alt="Requests" width="600" />
 
 
+## Recommendation Algorithm
 
+StudyLink recommends groups that share a student's courses, have available places, and overlap with their weekly availability. Groups the student has already joined or requested to join are excluded.
+
+Eligible groups are ranked by:
+1. Greater overlap with the student's available study time.
+2. Shared preferred languages.
+3. Matching meeting patterns.
+4. A shared major with the group owner.
+
+Each recommendation shows brief match reasons, such as "Same course" or "2 shared hours." If no groups match, students can update their preferences, browse groups, or create a group.
 
