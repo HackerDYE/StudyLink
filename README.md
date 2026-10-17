@@ -1,5 +1,5 @@
 # StudyLink
-<img align = "center" width="200" height="200" alt="UBC Study Group Finder" src="https://github.com/user-attachments/assets/6c8a4643-31cb-4638-b471-664cae521491" />
+<img align = "center" width="300" height="300" alt="UBC Study Group Finder" src="https://github.com/user-attachments/assets/6c8a4643-31cb-4638-b471-664cae521491" />
 StudyLink, a free online study group finder.
 
 # About Our team 
