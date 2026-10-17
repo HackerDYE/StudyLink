@@ -35,31 +35,47 @@ The platform supports two ways to find a study group:
 2. **Browse and filter:** Students can explore a study group directory and filter groups by course, meeting time, and meeting pattern, such as one-time or recurring sessions.
 
 
+
 ## Core Features
 
-### 1. Recommended
+### 1. My Profile
 
-Students can open **Recommended** from the sidebar to view suggested study groups based on their courses, availability, major, and preferred languages. Each recommendation shows the group's course, meeting schedule, available places, and reasons for the match. Students can view group details and request to join.
-
-### 2. My Profile
-
-Customize academic information, enrolled courses, preferred languages, meeting patterns, and weekly availability for personalized group recommendations.
+Create and update a student profile with your major, enrolled courses, preferred languages, and meeting patterns. Enter your weekly availability to show when you are free to study. The system uses these preferences to recommend suitable study groups.
 
 <img src="https://github.com/user-attachments/assets/2c3ec5b5-5d0e-43aa-a9f8-59f74a15a5f3" alt="My Profile" width="600" />
 
-<br>
+---
+
+### 2. Recommended
+
+Discover study groups recommended based on your courses, weekly availability, major, and preferred languages. Each recommendation displays the group's meeting schedule, available places, and reasons for the match. View group details and choose whether to send a request to join.
+
+<img src="https://github.com/user-attachments/assets/ed8c0e70-3599-475d-a15c-c29c36445886" alt="Recommended Groups" width="600" />
+
+---
 
 ### 3. Browse Groups
 
-Search and filter available study groups by course, meeting day, time, and meeting pattern.
+Explore a list of study groups and filter the results by course, meeting day, time, and meeting pattern. Review each group's language preferences, membership count, and meeting schedule to find one that fits your needs. Open a group's details and request to join if places are available.
 
 <img src="https://github.com/user-attachments/assets/2cd65271-442c-4a15-a9d4-92e3a6abdab7" alt="Browse Groups" width="600" />
 
-<br>
+---
 
-### 4. Requests
+### 4. Manage Groups
 
-Send, track, accept, decline, or withdraw study requests and access contact information after acceptance.
+Create a study group through **My Groups** by specifying its name, course, language, maximum number of members, and meeting schedule. The creator becomes the group owner and handles join requests through **Requests**, while full groups cannot accept additional members. Members can leave a group, and owners can delete their groups after confirmation.
+
+<img src="https://github.com/user-attachments/assets/5d80fb24-4ae3-4e63-8b20-b2be5791b26c" alt="Create Groups" width="600" />
+
+---
+
+### 5. Requests
+
+Send a study group join request with a proposed meeting time and an optional message, then track its status through **Requests**. Group owners can accept or decline incoming requests, and senders can withdraw requests while they are pending. After acceptance, contact emails become visible only to current group members.
 
 <img src="https://github.com/user-attachments/assets/2f76054f-ea2e-46c9-b181-41c11c7d6588" alt="Requests" width="600" />
+
+
+
 
