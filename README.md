@@ -19,11 +19,10 @@ Our mission is to make it easier for UBC students to find compatible peers and l
 
 
 ## Problem
-Students looking for peers to discuss coursework or prepare for exams need both shared courses and compatible schedules. Our team identifies Reddit, RedNote and Piazza posts as existing ways to find peers, but students still need separate conversations to compare availability. This can delay arrangements and make suitable partners difficult to find. 
 
-### Initial User Needs Analysis
+UBC students looking for peers to discuss coursework or prepare for exams often face two challenges: finding students in the same courses and coordinating compatible schedules. Existing platforms such as Reddit, RedNote, and Piazza may help students connect, but availability must usually be discussed separately through repeated messages. This can delay arrangements and make suitable study groups difficult to form.
 
-Our team identified two potential barriers to forming study groups: finding peers taking the same courses and coordinating compatible schedules. Posts on platforms such as Reddit, RedNote, and Piazza may help students discover one another, but availability often needs to be discussed separately. These initial observations informed our focus on course-based discovery and schedule matching. We will validate these assumptions through feedback from UBC students.
+These initial observations informed our focus on course-based discovery and schedule matching. We will validate them through feedback from UBC students.
 
 ## Design Solution
 
