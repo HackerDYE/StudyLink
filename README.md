@@ -19,8 +19,11 @@ Our mission is to make it easier for UBC students to find compatible peers and l
 
 
 ## Problem
-Students looking for peers to discuss coursework or prepare for exams need both shared courses and compatible schedules. Our team identifies Reddit, RedNote and Piazza posts as existing ways to find peers, but students still need separate conversations to compare availability. This can delay arrangements and make suitable partners difficult to find. These observations come from our team discussion; supporting user research remains to be added.
+Students looking for peers to discuss coursework or prepare for exams need both shared courses and compatible schedules. Our team identifies Reddit, RedNote and Piazza posts as existing ways to find peers, but students still need separate conversations to compare availability. This can delay arrangements and make suitable partners difficult to find. 
 
+### Initial User Needs Analysis
+
+Our team identified two potential barriers to forming study groups: finding peers taking the same courses and coordinating compatible schedules. Posts on platforms such as Reddit, RedNote, and Piazza may help students discover one another, but availability often needs to be discussed separately. These initial observations informed our focus on course-based discovery and schedule matching. We will validate these assumptions through feedback from UBC students.
 
 ## Design Solution
 
@@ -35,7 +38,11 @@ The platform supports two ways to find a study group:
 
 ## Core Features
 
-### 1. My Profile
+### 1. Recommended
+
+Students can open **Recommended** from the sidebar to view suggested study groups based on their courses, availability, major, and preferred languages. Each recommendation shows the group's course, meeting schedule, available places, and reasons for the match. Students can view group details and request to join.
+
+### 2. My Profile
 
 Customize academic information, enrolled courses, preferred languages, meeting patterns, and weekly availability for personalized group recommendations.
 
@@ -43,7 +50,7 @@ Customize academic information, enrolled courses, preferred languages, meeting p
 
 <br>
 
-### 2. Browse Groups
+### 3. Browse Groups
 
 Search and filter available study groups by course, meeting day, time, and meeting pattern.
 
@@ -51,13 +58,9 @@ Search and filter available study groups by course, meeting day, time, and meeti
 
 <br>
 
-### 3. Requests
+### 4. Requests
 
 Send, track, accept, decline, or withdraw study requests and access contact information after acceptance.
 
 <img src="https://github.com/user-attachments/assets/2f76054f-ea2e-46c9-b181-41c11c7d6588" alt="Requests" width="600" />
-
-
-Find partners or groups
-
 
